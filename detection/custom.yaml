@@ -1,0 +1,7 @@
+names:
+- jaywalker
+- pedestrian
+nc: 2
+test: /content/drive/MyDrive/sejong/detection/data/only_seg/test
+train: /content/drive/MyDrive/sejong/detection/data/only_seg/train
+val: /content/drive/MyDrive/sejong/detection/data/only_seg/val
